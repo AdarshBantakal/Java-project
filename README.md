@@ -1,6 +1,6 @@
 # Java-project
-A Online Voting System 
-Online Voting System for Student Council Project Overview This project is an Online Voting System designed for a student council election. The system ensures that each student can vote only once per position using their unique Student Number (USN). It is built using Java (NetBeans IDE) for the front end and MySQL for the database. Features
+A Online Voting System                                                                               
+for Student Council Project Overview This project is an Online Voting System designed for a student council election. The system ensures that each student can vote only once per position using their unique Student Number (USN). It is built using Java (NetBeans IDE) for the front end and MySQL for the database. Features
 User Login: Students log in using their college email and password. Secure authentication to ensure only valid users access the system.
 
 Unique Voting Process: Students vote using their USN. The system ensures that each student can vote only once for each position.
